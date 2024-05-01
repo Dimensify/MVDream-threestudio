@@ -2,7 +2,7 @@ import gc
 import os
 import re
 
-import tinycudann as tcnn
+import tiny_dpcpp_nn as tcnn
 import torch
 from packaging import version
 

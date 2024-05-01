@@ -1,6 +1,6 @@
 import math
 
-import tinycudann as tcnn
+import tiny_dpcpp_nn as tcnn
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
